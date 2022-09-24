@@ -35,7 +35,7 @@ body.exercicio {
 }
 
 .navegacao>a.verde {
-    background-color: #8be78f;
+    background-color: #66a869;
 }
 
 .navegacao>a.vermelho {
@@ -44,8 +44,6 @@ body.exercicio {
 
 .conteudo {
     font-size: 2rem;
-    text-align: center;
-    justify-content: center;
 }
 
 .conteudo>.titulo {

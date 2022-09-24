@@ -38,6 +38,6 @@
     }
 
     [dobro] {
-        font-size: 2rem;
+        font-size: <?= 10 - 8 ?>rem;
     }
 </style>
