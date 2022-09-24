@@ -1,3 +1,8 @@
+* {
+    font-family: 'Source Code Pro', sans-serif;
+    box-sizing: border-box;
+}
+
 body.exercicio {
     grid-template-rows: 120px 60px 1fr 60px;
     grid-template-areas:
@@ -16,7 +21,7 @@ body.exercicio {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background-color: #555;
+    background-color: rgb(239, 221, 252);
 }
 
 .navegacao>a {
@@ -24,13 +29,13 @@ body.exercicio {
     color: #FFF;
     font-weight: 300;
     font-size: 1.3rem;
-    background-color: #2196f3;
+    background-color: #720ab8;
     padding: 5px 10px;
     margin-right: 10px;
 }
 
 .navegacao>a.verde {
-    background-color: #4CAF50;
+    background-color: #8be78f;
 }
 
 .navegacao>a.vermelho {
@@ -39,6 +44,8 @@ body.exercicio {
 
 .conteudo {
     font-size: 2rem;
+    text-align: center;
+    justify-content: center;
 }
 
 .conteudo>.titulo {

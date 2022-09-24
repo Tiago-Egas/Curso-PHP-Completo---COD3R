@@ -1,4 +1,4 @@
-<div center class="titulo">Integração CSS</div>
+<div class="titulo">Integração CSS</div>
 
 <h1 center>
     <?php
@@ -31,7 +31,6 @@
         display: flex;
         flex-direction: column 15px;
         justify-content: center;
-        text-align: center;
     }
 
     [azul] {
