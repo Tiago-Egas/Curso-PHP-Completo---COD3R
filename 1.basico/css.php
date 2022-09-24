@@ -1,4 +1,4 @@
-<div class="titulo">Integração CSS</div>
+<div center class="titulo">Integração CSS</div>
 
 <h1 center>
     <?php
@@ -9,7 +9,7 @@
     ?>
 </h1>
 
-<?= "<div center azul>Outra forma de me 'expressar'!<div>" ?>
+<?= "<div center azul>Outra forma de me 'expressar'!</div>" ?>
 
 <br>
 <div center>
@@ -29,7 +29,9 @@
 
     [center] {
         display: flex;
+        flex-direction: column 15px;
         justify-content: center;
+        text-align: center;
     }
 
     [azul] {

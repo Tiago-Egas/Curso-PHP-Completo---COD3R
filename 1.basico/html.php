@@ -9,7 +9,7 @@
     ?>
 </h1>
 
-<?= "<div>Outra forma de me 'expressar'!<div>" ?>
+<?= "<div center>Outra forma de me 'expressar'!<div>" ?>
 
 <br>
 <div><button><?= "Legal" ?></button></div>
