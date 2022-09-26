@@ -53,6 +53,24 @@
                         <li>
                             <a href="exercicios.php?dir=2.tipos&file=2.2float">Tipo Real</a>
                         </li>
+                        <li>
+                            <a href="exercicios.php?dir=2.tipos&file=2.3aritmeticas">Op. Aritméticas</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=2.tipos&file=2.4desafio.precedencia">Desafio Preced.</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=2.tipos&file=2.5string">Tipo Caracteres</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=2.tipos&file=2.6desafio.string">Desafio Caract.</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=2.tipos&file=2.7boolean">Tipo Booleano</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=2.tipos&file=2.8conversoes">Conversões</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
