@@ -73,6 +73,17 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                    <h3>Variáveis</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicios.php?dir=3.variaveis&file=3.1basico">Variáveis</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=3.variaveis&file=3.2desafio_equacao">Desafio Equação</a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
