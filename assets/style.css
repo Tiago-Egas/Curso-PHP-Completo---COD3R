@@ -1,3 +1,5 @@
+/* CSS base para o index.php */
+
 * {
     font-family: 'Source Code Pro', sans-serif;
     box-sizing: border-box;
@@ -139,6 +141,7 @@ body {
     background-color: #008080;
 }
 
+/* 
 .modulo.roxo {
     border: 2px solid #8B008B;
 }
@@ -185,4 +188,4 @@ body {
 
 .modulo.roxo-escuro>h3 {
     background-color: #4B0082;
-}
+} */
