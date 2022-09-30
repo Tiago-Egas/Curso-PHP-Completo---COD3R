@@ -24,6 +24,7 @@
     </nav>
     <main class="principal">
         <div class="conteudo">
+            <!-- programas dos exercícios irão ficar dentro desta div -->
             <?php
             include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
             ?>
