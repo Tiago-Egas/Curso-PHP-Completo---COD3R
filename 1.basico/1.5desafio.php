@@ -1,5 +1,7 @@
 <div class="titulo">Desafio</div>
 
+<!-- Apenas outras formas de imprimir -->
+
 <ul>
     <li>
         <p>

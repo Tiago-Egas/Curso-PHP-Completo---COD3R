@@ -25,7 +25,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Básicos</h3>
+                    <h3>1. Básicos</h3>
                     <ul>
                         <li>
                             <a href="exercicios.php?dir=1.basico&file=1.1ola">Olá PHP</a>
@@ -45,7 +45,7 @@
                     </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>Tipos</h3>
+                    <h3>2. Tipos</h3>
                     <ul>
                         <li>
                             <a href="exercicios.php?dir=2.tipos&file=2.1int">Tipo Inteiro</a>
@@ -74,13 +74,25 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>Variáveis</h3>
+                    <h3>3. Variáveis</h3>
                     <ul>
                         <li>
                             <a href="exercicios.php?dir=3.variaveis&file=3.1basico">Variáveis</a>
                         </li>
                         <li>
                             <a href="exercicios.php?dir=3.variaveis&file=3.2desafio_equacao">Desafio Equação</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=3.variaveis&file=3.3atribuicoes">Atribuições</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=3.variaveis&file=3.4interpolacao">Interpolação</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=3.variaveis&file=3.5variaveisvariaveis">Variáveis</a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=3.variaveis&file=3.6desaviovariaveis">Desafio Var.</a>
                         </li>
                     </ul>
                 </div>
