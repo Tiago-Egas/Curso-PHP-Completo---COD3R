@@ -1,7 +1,7 @@
 <div class="titulo">Integração HTML</div>
 
 <h1>
-    <?php // PHP pode ser feito para todo o arquivo ou parte dele
+    <?php
     echo 'Olá';
     echo '<small>';
     echo ' Mundo!';

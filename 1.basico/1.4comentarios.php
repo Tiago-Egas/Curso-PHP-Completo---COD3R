@@ -23,5 +23,3 @@ Linha 3 do comentário
 echo "<p>Depois do segundo bloco!</p>";
 
 ?>
-
-<!-- Sem comentários -->

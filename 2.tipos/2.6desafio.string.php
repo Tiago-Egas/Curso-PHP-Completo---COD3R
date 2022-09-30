@@ -14,7 +14,7 @@ $tofind = 'abc';
 
 echo "Encontrar 'abc' dentro da string '!AbcaBcabc': ";
 echo "Encontrado? ";
-if (stripos($phrase, $tofind) == 1) // de onde veio isso?
+if (stripos($phrase, $tofind) == 1)
     echo "Sim.";
 echo '<br>';
 echo '<br>';
