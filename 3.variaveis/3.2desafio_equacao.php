@@ -14,6 +14,9 @@ Primeira tentativa de resolver equação
 ((((6 * (3 + 2)) ** 2) / (3 * 2) - ((((1 - 5) * (2 - 7)) / 2) ** 2) / (10 ** 3);
  */
 
+// por algum motivo não consegui usar o ** como exponenciação
+// fazendo com pow() passou a funcionar
+
 echo "<p>Testando separar os trechos da equação</p>";
 echo "Primeiro: <br> funcNum1 = pow((6 * (3 + 2)), 2) / (3 * 2) = ";
 echo pow((6 * (3 + 2)), 2) / (3 * 2) . '<br><br>';
