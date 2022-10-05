@@ -94,6 +94,9 @@
                         <li>
                             <a href="exercicios.php?dir=3.variaveis&file=3.6desaviovariaveis">Desafio Var.</a>
                         </li>
+                        <li>
+                            <a href="exercicios.php?dir=3.variaveis&file=3.7valorvsreferencia">Valor vs Referência</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
