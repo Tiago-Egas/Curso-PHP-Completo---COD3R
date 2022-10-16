@@ -5,6 +5,15 @@
     box-sizing: border-box;
 }
 
+p {
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+hr {
+    margin-top: 0px;
+}
+
 body.exercicio {
     grid-template-rows: 120px 60px 1fr 60px;
     grid-template-areas:
@@ -45,7 +54,7 @@ body.exercicio {
 }
 
 .conteudo {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
 }
 
 .conteudo>.titulo {

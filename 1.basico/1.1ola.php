@@ -1,6 +1,7 @@
 <div class="titulo">Olá PHP</div>
 
 <h2>Exemplo A</h2>
+<hr>
 <?php
 echo 'Olá';
 echo "\n"; // executado apenas no php.exe
@@ -10,8 +11,10 @@ echo '<br>';
 ?>
 
 <h2>Exemplo B</h2>
+<hr>
 <?= "Outra forma de imprimir textos" ?>
 <!-- Impressão direta sem necessidade do echo -->
 
 <?php
 phpinfo();
+?>

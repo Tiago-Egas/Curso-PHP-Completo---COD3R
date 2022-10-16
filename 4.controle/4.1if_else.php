@@ -2,6 +2,7 @@
 
 <?php
 
+echo "<p>If simples</p><hr>";
 if (true) {
     echo "Serei impresso?<br>";
 }
@@ -10,6 +11,8 @@ if (false) {
     echo "Serei impresso novamente?<br>";
 }
 echo "<br>";
+
+echo "<p>If falso</p><hr>";
 // pegadinha
 if (false); {
     echo "Vai ser impresso, SQN!<br>";
@@ -17,6 +20,7 @@ if (false); {
 }
 echo "<br>";
 
+echo "<p>Teste if/else simples</p><hr>";
 // outra aula
 if (true) {
     echo "Verdadeiro<br>";
@@ -24,6 +28,7 @@ if (true) {
     echo "Falso!<br>";
 }
 
+echo "<p>Teste Ifs aninhados</p><hr>";
 // ifs aninhados
 if (false) {
     echo "Passo A<br>";
@@ -34,7 +39,5 @@ if (false) {
 } else {
     echo "Último passo.<br>";
 }
-
-
 
 ?>

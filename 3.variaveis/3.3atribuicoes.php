@@ -5,7 +5,7 @@
 $title = 'Atribuções';
 
 // Operações com operadores infix
-echo "<p>Operações Infix</p>";
+echo "<p>Operações Infix</p><hr>";
 
 $num = 10; // Atribuição inicial
 echo "Atribuindo valor na variável num: " . $num . '<br>';
@@ -16,7 +16,7 @@ $num = $num - 1.90;
 echo "Alteração na variável (num - 1.90): " . $num . '<br>';
 
 // Incrementos e decrementos unários
-echo "<p>Incrementos e Decrementos Unárias</p>";
+echo "<p>Incrementos e Decrementos Unárias</p><hr>";
 
 $num++;                                                         // $num = $num + 1
 echo "Incremento pós fixado (num++): " . $num . '<br>';
@@ -28,7 +28,7 @@ echo "Incremento pré fixado (--num): " . $num . '<br>';
 echo "Decremento pré fixado (--num): " . $num . '<br>';
 
 // Operadores unários
-echo "<p>Operações Unárias</p>";
+echo "<p>Operações Unárias</p><hr>";
 
 $num = 32; // Nova atribuição para outros exemplos
 echo "Reatribuindo valor em num: " . $num . '<br>';
@@ -45,7 +45,7 @@ $num **= 7;
 echo "Exponenciação unária (num **= 5): " . $num . '<br>';
 
 // Funciona com concatenação
-echo "<p>Concatenações de textos com operações unárias</p>";
+echo "<p>Concatenações de textos com operações unárias</p><hr>";
 $lorem = 'Lorem ipsum';
 echo "Gerando texto (lorem): " . $lorem . '<br>';
 $lorem = $lorem . ' dolor sit';

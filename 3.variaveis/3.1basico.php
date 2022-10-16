@@ -15,13 +15,13 @@ echo "Conferir se uma variável está alocada com isset: " . isset($soma) . '<br
 unset($soma); // unset funciona mas ao executar o PHP avisa sobre variárvel nula
 echo "Remoção de valor da memória com unset: " . var_dump($soma) . '<br>';
 
-echo "<p>Exemplo de tipagem fraca do PHP</p>";
+echo "<p>Exemplo de tipagem fraca do PHP</p><hr>";
 $a = 27;
 echo "Usando variável (a) 1x: " . $a . '<br>';
 $a = "Var de string!";
 echo "Usando variável (a) 2x: " . $a . '<br>';
 
-echo "<p>Nomeclaturas permitidas no PHP</p>";
+echo "<p>Nomeclaturas permitidas no PHP</p><hr>";
 $var = 'válida!';
 $var2 = 'válida também!';
 $Var3 = "ainda é válida!";
@@ -32,7 +32,7 @@ echo "var2: " . $var2 . '<br>';
 echo "Var3: " . $Var3 . '<br>';
 echo "_var_4: " . $_var_4 . '<br>';
 
-echo "<p>Nomeclaturas não recomendadas no PHP</p>";
+echo "<p>Nomeclaturas não recomendadas no PHP</p><hr>";
 echo "Exemplos: " . '<br>';
 echo "vâr, com acentos." . '<br>';
 echo "4var, començando com números." . '<br>';

@@ -12,7 +12,7 @@ $esse = 'desafio';
 
 // Desafio: Imprimir a frase abaixo usando apenas a variável $a
 
-echo "<p>Nossa! Eu consegui resolver esse desafio.</p>";
+echo "<p>Nossa! Eu consegui resolver esse desafio.</p><hr>";
 
 
 echo "{$a}! {$$a} {$ $$a} {$ $ $$a} {$ $ $ $$a} {$ $ $ $ $$a}.";

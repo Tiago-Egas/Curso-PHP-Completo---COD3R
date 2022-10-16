@@ -14,7 +14,7 @@ echo "Verifica booleano (true): " . is_bool(true) . '<br>';
 
 // Regras de conversão
 
-echo '<p>Regras de conversão</p>';
+echo '<p>Regras de conversão</p><hr>';
 echo 'Variável: (0)' . var_dump((bool) 0) . '<br>'; // apenas zero (0) será falso
 echo 'Variável: (20)' . var_dump((bool) 20) . '<br>';
 echo 'Variável: (-1)' . var_dump((bool) -1) . '<br>';

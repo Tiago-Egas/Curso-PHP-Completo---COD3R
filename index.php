@@ -34,6 +34,21 @@
                                 If Else
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicios.php?dir=4.controle&file=4.2op_relacionais">
+                                Op. Relacionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=4.controle&file=4.3desafio.pi">
+                                Desafio PI
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicios.php?dir=4.controle&file=4.4op_logicos">
+                                Op. Lógicos
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">

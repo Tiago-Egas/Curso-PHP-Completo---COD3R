@@ -8,9 +8,10 @@ echo "Estou no PHP";
 ?>
 
 <p>Depois do primeiro bloco!</p>
+<hr>
 
 <!-- 
-    <p>Comentando HTML</p>
+    <p>Comentando HTML</p><hr>
 -->
 
 <?php
@@ -20,7 +21,7 @@ Linha 1 do comentário
 Linha 2 do comentário
 Linha 3 do comentário
 */
-echo "<p>Depois do segundo bloco!</p>";
+echo "<p>Depois do segundo bloco!</p><hr>";
 
 ?>
 

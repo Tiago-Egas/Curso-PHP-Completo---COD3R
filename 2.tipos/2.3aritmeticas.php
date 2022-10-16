@@ -20,7 +20,7 @@ echo "Exponenciação (4 ** 2) = ", 4 ** 2, '<br>'; // de outra forma pode ser u
 // precedência de operadores: 
 // () => ** => / * % => + -
 
-echo '<p>Exemplificando as precedência</p>';
+echo '<p>Exemplificando as precedência</p><hr>';
 
 echo "2 + 3 * 4 = ", 2 + 3 * 4, '<br>';
 echo "(2 + 3) * 4 = ", (2 + 3) * 4, '<br>';

@@ -17,7 +17,7 @@ Primeira tentativa de resolver equação
 // por algum motivo não consegui usar o ** como exponenciação
 // fazendo com pow() passou a funcionar
 
-echo "<p>Testando separar os trechos da equação</p>";
+echo "<p>Testando separar os trechos da equação</p><hr>";
 echo "Primeiro: <br> funcNum1 = pow((6 * (3 + 2)), 2) / (3 * 2) = ";
 echo pow((6 * (3 + 2)), 2) / (3 * 2) . '<br><br>';
 echo "Segundo: <br> funcNum2 = pow((((1 - 5) * (2 - 7)) / 2), 2) = ";
@@ -26,7 +26,7 @@ echo "Somente o topo: <br> pow((funcNum1 - funcNum2), 3) = ";
 echo pow(($funcNum1 - $funcNum2), 3) . '<br><br>';
 echo "Apenas denominador: <br> funcDeno = pow(10, 3) = ";
 echo $funcDeno . '<br><br>';
-echo "<p>Fórmula final do desafio:</p>";
+echo "<p>Fórmula final do desafio:</p><hr>";
 echo "(pow((funcNum1 - funcNum2), 3)) / funcDeno = " . (pow(($funcNum1 - $funcNum2), 3)) / $funcDeno . '<br>';
 
 ?>

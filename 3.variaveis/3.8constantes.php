@@ -2,7 +2,7 @@
 
 <?php
 
-echo "<p>Por convenção as constantes são sempre em caixa alta separando palavras com underline: </p>";
+echo "<p>Por convenção as constantes são sempre em caixa alta separando palavras com underline: </p><hr>";
 
 define('TAXA_DE_JUROS', 5.9);
 echo "Imprimindo a Taxa de Juros: " . TAXA_DE_JUROS . "!<br>";
@@ -28,7 +28,7 @@ echo "Mas apenas com define é possível realizar somas com as variáveis: <br>"
 define('NOVISSIMA_TAXA4', $taxaVarejo + 1.2);
 echo "define('NOVISSIMA_TAXA4', taxaVarejo ($taxaVarejo) + 1.2) = " . NOVISSIMA_TAXA4;
 
-echo '<p>Outras constantes conhecidads</p>';
+echo '<p>Outras constantes conhecidads</p><hr>';
 
 echo PHP_VERSION . ' = PHP_VERSION' . '<br>';
 echo PHP_INT_MAX . ' = PHP_INT_MAX' . '<br>';
