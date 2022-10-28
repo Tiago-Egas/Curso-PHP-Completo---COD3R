@@ -30,22 +30,22 @@
                     </h3>
                     <ul>
                         <li>
-                            <a href="exercicios.php?dir=4.controle&file=4.1if_else">
+                            <a href="exercicios.php?dir=4.controle&file=4.1-if_else">
                                 If Else
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=4.controle&file=4.2op_relacionais">
+                            <a href="exercicios.php?dir=4.controle&file=4.2-op_relacionais">
                                 Op. Relacionais
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=4.controle&file=4.3desafio.pi">
+                            <a href="exercicios.php?dir=4.controle&file=4.3-desafio.pi">
                                 Desafio PI
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=4.controle&file=4.4op_logicos">
+                            <a href="exercicios.php?dir=4.controle&file=4.4-op_logicos">
                                 Op. Lógicos
                             </a>
                         </li>
@@ -57,42 +57,42 @@
                     </h3>
                     <ul>
                         <li>
-                            <a href="exercicios.php?dir=3.variaveis&file=3.1basico">
+                            <a href="exercicios.php?dir=3.variaveis&file=3.1-basico">
                                 Variáveis
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=3.variaveis&file=3.2desafio_equacao">
+                            <a href="exercicios.php?dir=3.variaveis&file=3.2-desafio_equacao">
                                 Desafio Equação
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=3.variaveis&file=3.3atribuicoes">
+                            <a href="exercicios.php?dir=3.variaveis&file=3.3-atribuicoes">
                                 Atribuições
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=3.variaveis&file=3.4interpolacao">
+                            <a href="exercicios.php?dir=3.variaveis&file=3.4-interpolacao">
                                 Interpolação
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=3.variaveis&file=3.5variaveisvariaveis">
+                            <a href="exercicios.php?dir=3.variaveis&file=3.5-variaveisvariaveis">
                                 Variáveis
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=3.variaveis&file=3.6desaviovariaveis">
+                            <a href="exercicios.php?dir=3.variaveis&file=3.6-desaviovariaveis">
                                 Desafio Var.
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=3.variaveis&file=3.7valorvsreferencia">
+                            <a href="exercicios.php?dir=3.variaveis&file=3.7-valorvsreferencia">
                                 Valor vs Referência
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=3.variaveis&file=3.8constantes">
+                            <a href="exercicios.php?dir=3.variaveis&file=3.8-constantes">
                                 Constantes
                             </a>
                         </li>
@@ -104,42 +104,42 @@
                     </h3>
                     <ul>
                         <li>
-                            <a href="exercicios.php?dir=2.tipos&file=2.1int">
+                            <a href="exercicios.php?dir=2.tipos&file=2.1-int">
                                 Tipo Inteiro
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=2.tipos&file=2.2float">
+                            <a href="exercicios.php?dir=2.tipos&file=2.2-float">
                                 Tipo Real
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=2.tipos&file=2.3aritmeticas">
+                            <a href="exercicios.php?dir=2.tipos&file=2.3-aritmeticas">
                                 Op. Aritméticas
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=2.tipos&file=2.4desafio.precedencia">
+                            <a href="exercicios.php?dir=2.tipos&file=2.4-desafio.precedencia">
                                 Desafio Preced.
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=2.tipos&file=2.5string">
+                            <a href="exercicios.php?dir=2.tipos&file=2.5-string">
                                 Tipo Caracteres
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=2.tipos&file=2.6desafio.string">
+                            <a href="exercicios.php?dir=2.tipos&file=2.6-desafio.string">
                                 Desafio Caract.
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=2.tipos&file=2.7boolean">
+                            <a href="exercicios.php?dir=2.tipos&file=2.7-boolean">
                                 Tipo Booleano
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=2.tipos&file=2.8conversoes">
+                            <a href="exercicios.php?dir=2.tipos&file=2.8-conversoes">
                                 Conversões
                             </a>
                         </li>
@@ -151,27 +151,27 @@
                     </h3>
                     <ul>
                         <li>
-                            <a href="exercicios.php?dir=1.basico&file=1.1ola">
+                            <a href="exercicios.php?dir=1.basico&file=1.1-ola">
                                 Olá PHP
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=1.basico&file=1.2html">
+                            <a href="exercicios.php?dir=1.basico&file=1.2-html">
                                 Integração HTML
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=1.basico&file=1.3css">
+                            <a href="exercicios.php?dir=1.basico&file=1.3-css">
                                 Integração CSS
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=1.basico&file=1.4comentarios">
+                            <a href="exercicios.php?dir=1.basico&file=1.4-comentarios">
                                 Comentários PHP
                             </a>
                         </li>
                         <li>
-                            <a href="exercicios.php?dir=1.basico&file=1.5desafio">
+                            <a href="exercicios.php?dir=1.basico&file=1.5-desafio">
                                 Desafio
                             </a>
                         </li>
